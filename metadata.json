@@ -1,0 +1,6 @@
+{
+  "name": "Sarkari Sewa",
+  "description": "Nepali citizen aggregator for expedited government services, forms auto-fill, dynamic eligibility, application status tracking, and offline indexing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
